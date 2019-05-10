@@ -1,0 +1,11 @@
+prefix=/home/geunwon/projects/clink/depends/x86_64-w64-mingw32
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.2.2
+Libs: -L${libdir} -lzmq
+Libs.private: 
+Cflags: -I${includedir} -DZMQ_BUILD_DRAFT_API=1

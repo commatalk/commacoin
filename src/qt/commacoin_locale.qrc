@@ -1,0 +1,36 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/commacoin_bg.qm</file>
+        <file alias="ca">locale/commacoin_ca.qm</file>
+        <file alias="cs">locale/commacoin_cs.qm</file>
+        <file alias="da">locale/commacoin_da.qm</file>
+        <file alias="de">locale/commacoin_de.qm</file>
+        <file alias="en">locale/commacoin_en.qm</file>
+        <file alias="en_US">locale/commacoin_en_US.qm</file>
+        <file alias="eo">locale/commacoin_eo.qm</file>
+        <file alias="es">locale/commacoin_es.qm</file>
+        <file alias="es_ES">locale/commacoin_es_ES.qm</file>
+        <file alias="fi">locale/commacoin_fi.qm</file>
+        <file alias="fr_FR">locale/commacoin_fr_FR.qm</file>
+        <file alias="hi_IN">locale/commacoin_hi_IN.qm</file>
+        <file alias="hr">locale/commacoin_hr.qm</file>
+        <file alias="hr_HR">locale/commacoin_hr_HR.qm</file>
+        <file alias="it">locale/commacoin_it.qm</file>
+        <file alias="ja">locale/commacoin_ja.qm</file>
+        <file alias="ko_KR">locale/commacoin_ko_KR.qm</file>
+        <file alias="lt_LT">locale/commacoin_lt_LT.qm</file>
+        <file alias="nl">locale/commacoin_nl.qm</file>
+        <file alias="pl">locale/commacoin_pl.qm</file>
+        <file alias="pt">locale/commacoin_pt.qm</file>
+        <file alias="pt_BR">locale/commacoin_pt_BR.qm</file>
+        <file alias="ro_RO">locale/commacoin_ro_RO.qm</file>
+        <file alias="ru">locale/commacoin_ru.qm</file>
+        <file alias="sk">locale/commacoin_sk.qm</file>
+        <file alias="sv">locale/commacoin_sv.qm</file>
+        <file alias="tr">locale/commacoin_tr.qm</file>
+        <file alias="uk">locale/commacoin_uk.qm</file>
+        <file alias="vi">locale/commacoin_vi.qm</file>
+        <file alias="zh_CN">locale/commacoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/commacoin_zh_TW.qm</file>
+    </qresource>
+</RCC>
