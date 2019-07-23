@@ -1,8 +1,6 @@
 COMMACOIN Core integration/staging repository
 =====================================
 
-[![Build Status](https://travis-ci.org/COMMACOIN-Project/COMMACOIN.svg?branch=master)](https://travis-ci.org/COMMACOIN-Project/COMMACOIN) [![GitHub version](https://badge.fury.io/gh/COMMACOIN-Project%2FCOMMACOIN.svg)](https://badge.fury.io/gh/COMMACOIN-Project%2FCOMMACOIN)
-
 COMMA CHAIN is an online messenger platform for all participants, and it will evolve and develop through mutual interaction. Content providers develop together by providing more revenue and opportunity environments, providing content consumers and users with different benefits and new revenue structures, and inducing more participation. We hope to build a new messenger platform ecosystem that can grow together.
 - Dual System : operating a separate variable coin platform and fixed token platform
 - Masternode : If binding the CM Coin minimum quantity (for example, 100,000 pieces) to the wallet and map it with the master node server, mining coins will be put out continuously in the wallet
@@ -34,7 +32,7 @@ More information at [commacoin.io](https://commacoin.io)
 <th>Phase</th><th>Block Height</th><th>Masternode</th><th>POS</th><th>TotalReward</th>
 <tr><td>Phase 1</td><td>1441-51840</td><td>0.8CMC</td><td>0.2CMC</td><td>50,400CMC</td></tr>
 <tr><td>Phase 2</td><td>51841-181440</td><td>1600CMC</td><td>400CMC</td><td>50,259,200,000CMC</td></tr>
-<tr><td>Phase 3</td><td>181441-440640</td>td>800CMC</td><td>200CMC</td><td>50,259,200,000CMC</td></tr>
+<tr><td>Phase 3</td><td>181441-440640</td><td>800CMC</td><td>200CMC</td><td>50,259,200,000CMC</td></tr>
 <tr><td>Phase 4</td><td>440641-1088640</td><td>400CMC</td><td>100CMC</td><td>50,259,200,000CMC</td></tr>
 <tr><td>Phase 5</td><td>1088641-3162240</td><td>240CMC</td><td>60CMC</td><td>50,259,200,000CMC</td></tr>
 <tr><td>Phase 6</td><td>3162241-7309440</td><td>96CMC</td><td>24CMC</td><td>50,259,200,000CMC</td></tr>
