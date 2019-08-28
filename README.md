@@ -23,18 +23,17 @@ More information at [commacoin.io](https://commacoin.io)
 
 <table>
 <th>Block Height</th><th>Masternodes</th><th>Miner</th><th>Budget</th>
-<tr><td>1-200</td><td>0</td><td>100% (4,349,999,600 CMC)</td><td>N/A</td></tr>
+<tr><td>1-1440</td><td>0</td><td>100% (4,349,999,600 CMC)</td><td>N/A</td></tr>
 </table>
 
 ### PoS Rewards Breakdown
 
 <table>
 <th>Phase</th><th>Block Height</th><th>Masternode</th><th>POS</th><th>TotalReward</th>
-<tr><td>Phase 1</td><td>201-51840</td><td>0.8CMC</td><td>0.2CMC</td><td>51640CMC</td></tr>
-<tr><td>Phase 2</td><td>51841-181440</td><td>1600CMC</td><td>400CMC</td><td>50,259,200,000CMC</td></tr>
-<tr><td>Phase 3</td><td>181441-440640</td><td>800CMC</td><td>200CMC</td><td>50,259,200,000CMC</td></tr>
-<tr><td>Phase 4</td><td>440641-1088640</td><td>400CMC</td><td>100CMC</td><td>50,259,200,000CMC</td></tr>
-<tr><td>Phase 5</td><td>1088641-3162240</td><td>240CMC</td><td>60CMC</td><td>50,259,200,000CMC</td></tr>
-<tr><td>Phase 6</td><td>3162241-7309440</td><td>96CMC</td><td>24CMC</td><td>50,259,200,000CMC</td></tr>
-<tr><td>Phase 7</td><td>7309441-21283623</td><td>68CMC</td><td>17CMC</td><td>50,259,200,000CMC</td></tr>
+<tr><td>Phase 1</td><td>1441-21601</td><td>0.8CMC</td><td>0.2CMC</td><td>51640CMC</td></tr>
+<tr><td>Phase 2</td><td>21602-547202</td><td>960CMC</td><td>240CMC</td><td>630,720,000CMC</td></tr>
+<tr><td>Phase 3</td><td>547203-1598403</td><td>480CMC</td><td>120CMC</td><td>630,720,000CMC</td></tr>
+<tr><td>Phase 4</td><td>1598404-3700804</td><td>240CMC</td><td>60CMC</td><td>630,720,000CMC</td></tr>
+<tr><td>Phase 5</td><td>3700805-7905605</td><td>116CMC</td><td>29CMC</td><td>630,720,000CMC</td></tr>
+<tr><td>Phase 6</td><td>7905606-20868083</td><td>40CMC</td><td>10CMC</td><td>648,123,850CMC</td></tr>
 </table>
