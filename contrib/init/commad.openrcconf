@@ -1,0 +1,26 @@
+# /etc/conf.d/commad: config file for /etc/init.d/commad
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/comma/comma.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/commad"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/commad.pid"
+
+# Where to write commad data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/commad"
+
+# User and group to own commad process
+#BITCOIND_USER="comma"
+#BITCOIND_GROUP="comma"
+
+# Path to commad executable
+#BITCOIND_BIN="/usr/bin/commad"
+
+# Nice value to run commad under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

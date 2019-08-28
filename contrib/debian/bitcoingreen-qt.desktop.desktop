@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Comma
+Comment=Comma P2P Cryptocurrency
+Exec=comma-qt %u
+Terminal=false
+Type=Application
+Icon=comma128
+MimeType=x-scheme-handler/comma;
+Categories=Office;Finance;
+Name[en_US]=comma-qt.desktop

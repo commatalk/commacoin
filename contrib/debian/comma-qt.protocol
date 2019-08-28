@@ -1,0 +1,11 @@
+[Protocol]
+exec=comma-qt '%u'
+protocol=comma
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
